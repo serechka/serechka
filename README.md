@@ -1,40 +1,31 @@
 <p align="center">
-  <img src="assets/serechka-mark-512.png" width="96" height="96" alt="serechka">
+  <img src="assets/banner.png" alt="serechka - developer and security engineer" width="100%">
 </p>
 
-# serechka
+I build web products and security tooling. TypeScript and Next.js on the front, Python and Node.js on the back, Go and Rust for tools.
 
-Независимый аудит безопасности и пентест.
+I also take on authorized security assessments and penetration testing.
 
-Провожу согласованные проверки безопасности: сайты, API, приложения, код, бинарники и файлы. Подтверждаю проблемы, объясняю влияние на бизнес и даю рекомендации по исправлению.
+Currently building **Arguscan**, a passive website security scanner and Telegram bot.
 
-Вы общаетесь напрямую со специалистом, который проводит проверку и пишет отчёт.
+## Stack
 
-## Что проверяю
+| | |
+| --- | --- |
+| Frontend | TypeScript · Next.js · React |
+| Backend | Python · Node.js |
+| Systems | Go · Rust |
+| Other | Java · SQLite |
 
-- Сайты и веб-приложения
-- API
-- Приложения
-- Код
-- Бинарники и файлы
+## Selected work
 
-## Как смотрю
+| Project | About | Stack |
+| --- | --- | --- |
+| [Arguscan](https://t.me/arguscanbot) | Passive website security scanner and Telegram bot | Python |
+| [serechka.dev](https://serechka.dev) | Site for independent security assessments | Next.js · TypeScript |
+| [aiorollypay](https://github.com/serechka/aiorollypay) | Dependency-free Go client for the RollyPay payment API | Go |
+| [HeartsPlus](https://github.com/serechka/HeartsPlus) | Client-side health indicators for Minecraft, Fabric and NeoForge | Java |
 
-Смотрю систему как атакующий: ищу цепочку, а не отдельные пункты чек-листа. Проверяю интерфейс, логику, доступ, данные и интеграции.
+## Contact
 
-## Контакты
-
-- Сайт: https://serechka.dev
-- Telegram: https://t.me/serechka
-- Канал: https://t.me/serechka_dev
-- Почта: mail@serechka.dev
-
-## Проекты
-
-- [Arguscan](https://t.me/arguscanbot) - бот пассивной проверки безопасности сайта. Показывает оценку риска, защиту и найденные проблемы. Одна проверка в сутки.
-- [aiorollypay](https://github.com/serechka/aiorollypay) - Go.
-- [HeartsPlus](https://github.com/serechka/HeartsPlus) - полоски здоровья над игроками для Fabric и NeoForge.
-
-## Бесплатная проверка
-
-Пришлите домен боту [@arguscanbot](https://t.me/arguscanbot). Он проверит публичные страницы и покажет оценку риска.
+[Website](https://serechka.dev) · [Telegram](https://t.me/serechka) · [Email](mailto:mail@serechka.dev)
